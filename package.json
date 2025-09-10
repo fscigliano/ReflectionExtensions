@@ -1,0 +1,14 @@
+{
+  "name": "com.fscigliano.ReflectionExtensions",
+  "version": "1.0.0",
+  "displayName": "Reflection Extensions",
+  "description": "Descripción corta de tu paquete",
+  "unity": "2021.3",
+  "keywords": ["tool"],
+  "author": {
+    "name": "Franco Scigliano",
+    "email": "franco.scigliano.es@gmail.com",
+    "url": "https://github.com/fscigliano/ReflectionExtensions"
+  },
+  "dependencies": {}
+}

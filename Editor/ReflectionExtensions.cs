@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 
-namespace com.fscigliano.ReflectionExtensions
+namespace com.fscigliano.ReflectionExtensions.Editor
 {
     /// <summary>
     /// Creation Date:   4/5/2020 10:30:32 PM

@@ -1,0 +1,18 @@
+{
+    "name": "com.fscigliano.reflection-extensions.editor",
+    "rootNamespace": "",
+    "references": [
+        "com.fdt.common"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
